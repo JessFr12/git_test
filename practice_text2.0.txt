@@ -1,2 +1,3 @@
 I am getting the hang of the modify, stage, and commit commands!
 This is really fun.
+I made an edit to this text file.
